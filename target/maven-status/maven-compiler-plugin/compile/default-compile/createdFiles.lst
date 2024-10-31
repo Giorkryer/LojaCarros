@@ -1,0 +1,14 @@
+com\minhaloja\carros\security\SecurityConfig.class
+com\minhaloja\carros\service\QrCodeService.class
+com\minhaloja\carros\controller\QrCodeController.class
+com\minhaloja\carros\service\CarroService.class
+com\minhaloja\carros\repository\CarroRepository.class
+com\minhaloja\carros\controller\UsuarioController.class
+com\minhaloja\carros\controller\RelatorioController.class
+com\minhaloja\carros\controller\CarroController.class
+com\minhaloja\carros\LojacarrosApplication.class
+com\minhaloja\carros\model\Usuario.class
+com\minhaloja\carros\service\UsuarioService.class
+com\minhaloja\carros\repository\UsuarioRepository.class
+com\minhaloja\carros\service\RelatorioService.class
+com\minhaloja\carros\model\Carro.class

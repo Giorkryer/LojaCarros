@@ -1,0 +1,15 @@
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\config\SwaggerConfig.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\controller\CarroController.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\controller\QrCodeController.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\controller\RelatorioController.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\controller\UsuarioController.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\LojacarrosApplication.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\model\Carro.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\model\Usuario.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\repository\CarroRepository.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\repository\UsuarioRepository.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\security\SecurityConfig.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\service\CarroService.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\service\QrCodeService.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\service\RelatorioService.java
+C:\Users\giord\Desktop\carros\src\main\java\com\minhaloja\carros\service\UsuarioService.java
